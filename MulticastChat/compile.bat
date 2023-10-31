@@ -1,0 +1,5 @@
+javac -d .\ .\*.java
+
+pause
+
+
